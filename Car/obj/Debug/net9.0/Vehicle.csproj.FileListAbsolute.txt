@@ -1,0 +1,14 @@
+C:\Users\ACER\Documents\C#\Car\obj\Debug\net9.0\Vehicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Documents\C#\Car\obj\Debug\net9.0\Vehicle.AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\C#\Car\obj\Debug\net9.0\Vehicle.AssemblyInfo.cs
+C:\Users\ACER\Documents\C#\Car\obj\Debug\net9.0\Vehicle.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\C#\Car\bin\Debug\net9.0\Vehicle.exe
+C:\Users\ACER\Documents\C#\Car\bin\Debug\net9.0\Vehicle.deps.json
+C:\Users\ACER\Documents\C#\Car\bin\Debug\net9.0\Vehicle.runtimeconfig.json
+C:\Users\ACER\Documents\C#\Car\bin\Debug\net9.0\Vehicle.dll
+C:\Users\ACER\Documents\C#\Car\bin\Debug\net9.0\Vehicle.pdb
+C:\Users\ACER\Documents\C#\Car\obj\Debug\net9.0\Vehicle.dll
+C:\Users\ACER\Documents\C#\Car\obj\Debug\net9.0\refint\Vehicle.dll
+C:\Users\ACER\Documents\C#\Car\obj\Debug\net9.0\Vehicle.pdb
+C:\Users\ACER\Documents\C#\Car\obj\Debug\net9.0\Vehicle.genruntimeconfig.cache
+C:\Users\ACER\Documents\C#\Car\obj\Debug\net9.0\ref\Vehicle.dll
